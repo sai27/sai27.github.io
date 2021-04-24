@@ -5,4 +5,7 @@ date: 2021-04-25 01:06:23 +0900
 category: ue4
 ---
 可以使用如下命令进行调试ue4项目，引擎执行流程可排除Editor代码的干扰
-`"[projectpath].uproject" -game -log -windowed -ResX=1280 -ResY=720 -verbose`
+
+```
+"[projectpath].uproject" -game -log -windowed -ResX=1280 -ResY=720 -verbose
+```
